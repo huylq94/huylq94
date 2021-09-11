@@ -1,5 +1,5 @@
 <div align="center" width="50">
-    <img src="https://github.com/huylq94/huylq94/blob/main/images/hellocoders_rounded.gif?raw=true" 
+    <img src="https://github.com/huylq94/huylq94/blob/main/images/meowww.gif?raw=true" 
         href="https://github.com/huylq94" 
         alt="Hello Coders" 
         width="625"/> <br>
