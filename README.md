@@ -1,5 +1,10 @@
-### Hi there 👋
-
+<div align="center" width="50">
+    ### Hi there 👋
+    <img src="https://github.com/huylq94/huylq94/blob/main/images/hellocoders_rounded.gif?raw=true" 
+        href="https://github.com/huylq94" 
+        alt="Hello Coders" 
+        width="625"/> <br>
+</div>
 <!--
 **huylq94/huylq94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
